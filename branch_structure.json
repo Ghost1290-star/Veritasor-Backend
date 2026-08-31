@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/connected-integration-coverage-931",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/connected-integration-coverage-931": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/connected-integration-coverage-931",
+    "origin"
+  ]
+}
